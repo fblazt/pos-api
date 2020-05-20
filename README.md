@@ -15,7 +15,6 @@
   * [Start Development Server](#Start-Development-Server)
 * [Folders Structure](#Folders-Structure)
 * [Related Project](#Related-Project)
-* [License](#License)
 
 ## About
 POS (Point of Sale) API is a REST API made for [pos-app](https://github.com/fblazt/pos-app) Front-end project.
@@ -94,6 +93,5 @@ Then, check every HTTP method / action from Postman.
 ## Related Project
 * [`pos-app`](https://github.com/fblazt/pos-app)
 
-## License
-
-© [Firman](https://github.com/fblazt/)
+---
+Copyright © 2020 [Firman](https://github.com/fblazt/)
